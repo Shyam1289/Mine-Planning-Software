@@ -15,8 +15,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Data folder (optional, if you don't want to track imported data)
-data/
+
 
 # Logs
 *.log
