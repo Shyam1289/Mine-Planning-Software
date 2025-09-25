@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folder (optional, if you don't want to track imported data)
+data/
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
